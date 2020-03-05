@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="698.069px" height="1400px" viewBox="150.967 0 698.069 1400" enable-background="new 150.967 0 698.069 1400"
+	 xml:space="preserve">
+<filter  width="103.8%" height="105.7%" id="new-task-z" filterUnits="objectBoundingBox" x="-1.9%" y="-1.4%">
+	<feOffset  dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feComposite  in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+	<feColorMatrix  values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0" in="shadowOffsetOuter1"></feColorMatrix>
+</filter>
+<filter  width="103.8%" height="105.7%" id="new-task-x" filterUnits="objectBoundingBox" x="-1.9%" y="-1.4%">
+	<feOffset  dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feComposite  in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+	<feColorMatrix  values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0" in="shadowOffsetOuter1"></feColorMatrix>
+</filter>
+<filter  width="103.8%" height="105.7%" id="new-task-v" filterUnits="objectBoundingBox" x="-1.9%" y="-1.4%">
+	<feOffset  dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feComposite  in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+	<feColorMatrix  values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0" in="shadowOffsetOuter1"></feColorMatrix>
+</filter>
+<filter  width="103.8%" height="105.7%" id="new-task-t" filterUnits="objectBoundingBox" x="-1.9%" y="-1.4%">
+	<feOffset  dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feComposite  in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+	<feColorMatrix  values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0" in="shadowOffsetOuter1"></feColorMatrix>
+</filter>
+<filter  width="103.8%" height="105.7%" id="new-task-r" filterUnits="objectBoundingBox" x="-1.9%" y="-1.4%">
+	<feOffset  dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feComposite  in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+	<feColorMatrix  values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0" in="shadowOffsetOuter1"></feColorMatrix>
+</filter>
+<filter  width="103.8%" height="105.7%" id="new-task-p" filterUnits="objectBoundingBox" x="-1.9%" y="-1.4%">
+	<feOffset  dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feComposite  in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+	<feColorMatrix  values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0" in="shadowOffsetOuter1"></feColorMatrix>
+</filter>
+<filter  width="103.8%" height="105.7%" id="new-task-n" filterUnits="objectBoundingBox" x="-1.9%" y="-1.4%">
+	<feOffset  dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feComposite  in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+	<feColorMatrix  values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0" in="shadowOffsetOuter1"></feColorMatrix>
+</filter>
+<filter  width="102.9%" height="105.7%" id="new-task-l" filterUnits="objectBoundingBox" x="-1.4%" y="-1.4%">
+	<feOffset  dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feComposite  in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+	<feColorMatrix  values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0" in="shadowOffsetOuter1"></feColorMatrix>
+</filter>
+<filter  width="103%" height="105.7%" id="new-task-j" filterUnits="objectBoundingBox" x="-1.5%" y="-1.4%">
+	<feOffset  dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feComposite  in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+	<feColorMatrix  values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0" in="shadowOffsetOuter1"></feColorMatrix>
+</filter>
+<filter  width="102.9%" height="105.7%" id="new-task-h" filterUnits="objectBoundingBox" x="-1.5%" y="-1.4%">
+	<feOffset  dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feComposite  in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+	<feColorMatrix  values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0" in="shadowOffsetOuter1"></feColorMatrix>
+</filter>
+<filter  width="103.8%" height="105.7%" id="new-task-f" filterUnits="objectBoundingBox" x="-1.9%" y="-1.4%">
+	<feOffset  dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feComposite  in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+	<feColorMatrix  values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0" in="shadowOffsetOuter1"></feColorMatrix>
+</filter>
+<filter  width="100.8%" height="105.7%" id="new-task-d" filterUnits="objectBoundingBox" x="-.4%" y="-1.4%">
+	<feOffset  dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feComposite  in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+	<feColorMatrix  values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0" in="shadowOffsetOuter1"></feColorMatrix>
+</filter>
+<filter  width="101.4%" height="105.7%" id="new-task-b" filterUnits="objectBoundingBox" x="-.7%" y="-1.4%">
+	<feOffset  dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feComposite  in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+	<feColorMatrix  values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0" in="shadowOffsetOuter1"></feColorMatrix>
+</filter>
+<filter  width="103.8%" height="105.7%" id="new-task-an" filterUnits="objectBoundingBox" x="-1.9%" y="-1.4%">
+	<feOffset  dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feComposite  in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+	<feColorMatrix  values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0" in="shadowOffsetOuter1"></feColorMatrix>
+</filter>
+<filter  width="103.8%" height="105.7%" id="new-task-al" filterUnits="objectBoundingBox" x="-1.9%" y="-1.4%">
+	<feOffset  dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feComposite  in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+	<feColorMatrix  values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0" in="shadowOffsetOuter1"></feColorMatrix>
+</filter>
+<filter  width="103.8%" height="105.7%" id="new-task-aj" filterUnits="objectBoundingBox" x="-1.9%" y="-1.4%">
+	<feOffset  dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feComposite  in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+	<feColorMatrix  values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0" in="shadowOffsetOuter1"></feColorMatrix>
+</filter>
+<filter  width="103.8%" height="105.7%" id="new-task-ah" filterUnits="objectBoundingBox" x="-1.9%" y="-1.4%">
+	<feOffset  dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feComposite  in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+	<feColorMatrix  values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0" in="shadowOffsetOuter1"></feColorMatrix>
+</filter>
+<filter  width="103.8%" height="105.7%" id="new-task-af" filterUnits="objectBoundingBox" x="-1.9%" y="-1.4%">
+	<feOffset  dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feComposite  in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+	<feColorMatrix  values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0" in="shadowOffsetOuter1"></feColorMatrix>
+</filter>
+<filter  width="103.8%" height="105.7%" id="new-task-ad" filterUnits="objectBoundingBox" x="-1.9%" y="-1.4%">
+	<feOffset  dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feComposite  in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+	<feColorMatrix  values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0" in="shadowOffsetOuter1"></feColorMatrix>
+</filter>
+<filter  width="103.8%" height="105.7%" id="new-task-ab" filterUnits="objectBoundingBox" x="-1.9%" y="-1.4%">
+	<feOffset  dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feComposite  in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+	<feColorMatrix  values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0" in="shadowOffsetOuter1"></feColorMatrix>
+</filter>
+<filter  width="103.8%" height="105.7%" id="new-task-Z" filterUnits="objectBoundingBox" x="-1.9%" y="-1.4%">
+	<feOffset  dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feComposite  in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+	<feColorMatrix  values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0" in="shadowOffsetOuter1"></feColorMatrix>
+</filter>
+<filter  width="103.8%" height="105.7%" id="new-task-X" filterUnits="objectBoundingBox" x="-1.9%" y="-1.4%">
+	<feOffset  dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feComposite  in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+	<feColorMatrix  values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0" in="shadowOffsetOuter1"></feColorMatrix>
+</filter>
+<filter  width="103.8%" height="105.7%" id="new-task-V" filterUnits="objectBoundingBox" x="-1.9%" y="-1.4%">
+	<feOffset  dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feComposite  in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+	<feColorMatrix  values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0" in="shadowOffsetOuter1"></feColorMatrix>
+</filter>
+<filter  width="103.8%" height="105.7%" id="new-task-T" filterUnits="objectBoundingBox" x="-1.9%" y="-1.4%">
+	<feOffset  dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feComposite  in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+	<feColorMatrix  values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0" in="shadowOffsetOuter1"></feColorMatrix>
+</filter>
+<filter  width="103.8%" height="105.7%" id="new-task-R" filterUnits="objectBoundingBox" x="-1.9%" y="-1.4%">
+	<feOffset  dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feComposite  in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+	<feColorMatrix  values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0" in="shadowOffsetOuter1"></feColorMatrix>
+</filter>
+<filter  width="103.8%" height="105.7%" id="new-task-P" filterUnits="objectBoundingBox" x="-1.9%" y="-1.4%">
+	<feOffset  dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feComposite  in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+	<feColorMatrix  values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0" in="shadowOffsetOuter1"></feColorMatrix>
+</filter>
+<filter  width="103.8%" height="105.7%" id="new-task-N" filterUnits="objectBoundingBox" x="-1.9%" y="-1.4%">
+	<feOffset  dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feComposite  in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+	<feColorMatrix  values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0" in="shadowOffsetOuter1"></feColorMatrix>
+</filter>
+<filter  width="103.8%" height="105.7%" id="new-task-L" filterUnits="objectBoundingBox" x="-1.9%" y="-1.4%">
+	<feOffset  dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feComposite  in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+	<feColorMatrix  values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0" in="shadowOffsetOuter1"></feColorMatrix>
+</filter>
+<filter  width="103.8%" height="105.7%" id="new-task-J" filterUnits="objectBoundingBox" x="-1.9%" y="-1.4%">
+	<feOffset  dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feComposite  in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+	<feColorMatrix  values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0" in="shadowOffsetOuter1"></feColorMatrix>
+</filter>
+<filter  width="103.8%" height="105.7%" id="new-task-H" filterUnits="objectBoundingBox" x="-1.9%" y="-1.4%">
+	<feOffset  dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feComposite  in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+	<feColorMatrix  values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0" in="shadowOffsetOuter1"></feColorMatrix>
+</filter>
+<filter  width="103.8%" height="105.7%" id="new-task-F" filterUnits="objectBoundingBox" x="-1.9%" y="-1.4%">
+	<feOffset  dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feComposite  in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+	<feColorMatrix  values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0" in="shadowOffsetOuter1"></feColorMatrix>
+</filter>
+<filter  width="103.8%" height="105.7%" id="new-task-D" filterUnits="objectBoundingBox" x="-1.9%" y="-1.4%">
+	<feOffset  dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feComposite  in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+	<feColorMatrix  values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0" in="shadowOffsetOuter1"></feColorMatrix>
+</filter>
+<filter  width="102.9%" height="105.7%" id="new-task-B" filterUnits="objectBoundingBox" x="-1.4%" y="-1.4%">
+	<feOffset  dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feComposite  in="shadowOffsetOuter1" in2="SourceAlpha" operator="out" result="shadowOffsetOuter1"></feComposite>
+	<feColorMatrix  values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.35 0" in="shadowOffsetOuter1"></feColorMatrix>
+</filter>
+<g>
+	<path fill="#EEE3C1" d="M845.167,359.636v926.334c0,39.65-4.129,54.027-11.881,68.523s-19.129,25.873-33.625,33.625
+		S770.788,1400,731.137,1400h-460.34c-39.65,0-54.028-4.129-68.524-11.881s-25.872-19.129-33.624-33.625
+		s-11.881-28.873-11.881-68.523V471.823h-0.843c-1.724,0-2.349-0.182-2.979-0.519c-0.63-0.337-1.125-0.832-1.462-1.462
+		s-0.517-1.255-0.517-2.979v-80.968c0-1.724,0.18-2.349,0.517-2.979s0.832-1.125,1.462-1.462c0.63-0.337,1.255-0.517,2.979-0.517
+		h0.843v-21.271h-0.843c-1.724,0-2.349-0.179-2.979-0.517c-0.63-0.337-1.125-0.832-1.462-1.462s-0.517-1.255-0.517-2.979V273.74
+		c0-1.724,0.18-2.349,0.517-2.979c0.337-0.63,0.832-1.125,1.462-1.462c0.63-0.337,1.255-0.517,2.979-0.517h0.843v-52.21h-0.843
+		c-1.724,0-2.349-0.18-2.979-0.517c-0.63-0.337-1.125-0.832-1.462-1.462c-0.337-0.63-0.517-1.255-0.517-2.979v-40.361
+		c0-1.724,0.18-2.349,0.517-2.979s0.832-1.125,1.462-1.462c0.63-0.337,1.255-0.517,2.979-0.517h0.843v-52.269
+		c0-39.65,4.128-54.029,11.881-68.524c7.752-14.496,19.128-25.872,33.624-33.624C216.769,4.128,231.146,0,270.797,0h460.34
+		c39.65,0,54.027,4.128,68.523,11.881c14.496,7.752,25.873,19.128,33.625,33.624s11.881,28.874,11.881,68.524v154.788
+		c0.941,0.065,1.414,0.23,1.889,0.484c0.629,0.337,1.125,0.832,1.461,1.462c0.338,0.63,0.52,1.255,0.52,2.979v80.969
+		c0,1.724-0.182,2.349-0.52,2.979c-0.336,0.63-0.832,1.125-1.461,1.462C846.581,359.406,846.108,359.57,845.167,359.636z
+		 M500.967,1361.326c25.197,0,46.408-21.211,46.408-46.408c0-27.133-21.211-48.344-46.408-48.344
+		c-27.133,0-48.344,21.211-48.344,48.344C452.624,1340.115,473.834,1361.326,500.967,1361.326z M500.967,1357.458
+		c-24.996,0-44.475-19.479-44.475-42.541c0-24.996,19.479-44.475,44.475-44.475c23.062,0,42.541,19.479,42.541,44.475
+		C543.508,1337.978,524.03,1357.458,500.967,1357.458z M382.043,94.751c5.875,0,10.637-4.762,10.637-10.635
+		c0-5.874-4.762-10.636-10.637-10.636c-5.873,0-10.635,4.762-10.635,10.636S376.17,94.751,382.043,94.751z M500.967,52.21
+		c3.203,0,5.801-2.597,5.801-5.801s-2.598-5.801-5.801-5.801c-3.205,0-5.801,2.597-5.801,5.801S497.762,52.21,500.967,52.21z
+		 M443.922,79.282c-2.67,0-4.834,2.165-4.834,4.834s2.164,4.834,4.834,4.834H558.01c2.67,0,4.836-2.164,4.836-4.834
+		s-2.166-4.834-4.836-4.834H443.922z"/>
+	<path fill="#0A0A0A" d="M197.375,156.63h605.249c2.137,0,3.869,1.731,3.869,3.867V1237.57c0,2.135-1.732,3.865-3.869,3.865H197.375
+		c-2.136,0-3.867-1.73-3.867-3.865V160.497C193.508,158.361,195.24,156.63,197.375,156.63z"/>
+	<g>
+		<g>
+			<rect id="new-task-a" x="197.375" y="887.57" fill-opacity="0.6" width="605.249" height="348.064"/>
+		</g>
+		<g>
+			<rect id="new-task-a_1_" x="197.375" y="887.57" fill-opacity="0.1" width="605.249" height="348.064"/>
+		</g>
+	</g>
+	<g filter="url(#new-task-b)">
+		<path id="new-task-c_2_" d="M666.227,1161.511h121.889c5.34,0,9.668,4.328,9.668,9.668v48.342c0,5.342-4.328,9.672-9.668,9.672
+			H666.227c-5.34,0-9.668-4.33-9.668-9.672v-48.342C656.559,1165.839,660.887,1161.511,666.227,1161.511z"/>
+	</g>
+	<g>
+		<path id="new-task-c_1_" fill="#FFFFFF" fill-opacity="0.13" d="M666.227,1161.511h121.889c5.34,0,9.668,4.328,9.668,9.668v48.342
+			c0,5.342-4.328,9.672-9.668,9.672H666.227c-5.34,0-9.668-4.33-9.668-9.672v-48.342
+			C656.559,1165.839,660.887,1161.511,666.227,1161.511z"/>
+	</g>
+	<path fill="#FFFFFF" d="M686.844,1204.375v-16.287h2.48v2.418h0.24c0.482-1.586,2.355-2.703,4.518-2.703
+		c0.424,0,0.967,0.029,1.299,0.074v2.6c-0.211-0.061-1.146-0.15-1.662-0.15c-2.477,0-4.273,1.662-4.273,3.959v10.092
+		L686.844,1204.375L686.844,1204.375z M704.051,1190.097c-2.598,0-4.41,1.904-4.605,4.789h8.975
+		C708.358,1192.001,706.635,1190.097,704.051,1190.097z M708.342,1200.16h2.6c-0.785,2.795-3.293,4.502-6.857,4.502
+		c-4.518,0-7.342-3.266-7.342-8.416c0-5.121,2.869-8.443,7.342-8.443c4.396,0,7.07,3.127,7.07,8.188v0.998h-11.709v0.119
+		c0.137,3.219,1.934,5.258,4.697,5.258C706.243,1202.365,707.663,1201.593,708.342,1200.16z M715.7,1183.873h2.6v4.215h3.625v2.176
+		h-3.625v9.219c0,1.918,0.727,2.732,2.416,2.732c0.469,0,0.727-0.016,1.209-0.061v2.188c-0.514,0.092-1.012,0.15-1.523,0.15
+		c-3.355,0-4.699-1.238-4.699-4.352v-9.881h-2.629v-2.176h2.629L715.7,1183.873L715.7,1183.873z M738.407,1188.087v16.287h-2.48
+		v-2.555h-0.24c-0.814,1.812-2.555,2.842-5.047,2.842c-3.654,0-5.559-2.176-5.559-6.029v-10.545h2.598V1198
+		c0,2.93,1.088,4.289,3.688,4.289c2.871,0,4.439-1.707,4.439-4.562v-9.639H738.407z M742.682,1204.375v-16.287h2.48v2.418h0.24
+		c0.482-1.586,2.355-2.703,4.518-2.703c0.424,0,0.967,0.029,1.299,0.074v2.6c-0.211-0.061-1.146-0.15-1.662-0.15
+		c-2.477,0-4.271,1.662-4.271,3.959v10.092L742.682,1204.375L742.682,1204.375z M754.149,1204.375v-16.287h2.479v2.568h0.24
+		c0.814-1.797,2.402-2.854,4.896-2.854c3.654,0,5.695,2.16,5.695,6.027v10.545h-2.6v-9.91c0-2.932-1.238-4.322-3.836-4.322
+		c-2.602,0-4.275,1.738-4.275,4.596v9.639L754.149,1204.375L754.149,1204.375z"/>
+	<g filter="url(#new-task-d)">
+		<path id="new-task-e_2_" d="M423.319,1161.511h213.885c5.34,0,9.668,4.328,9.668,9.668v48.342c0,5.342-4.328,9.672-9.668,9.672
+			H423.319c-5.342,0-9.668-4.33-9.668-9.672v-48.342C413.651,1165.839,417.979,1161.511,423.319,1161.511z"/>
+	</g>
+	<g>
+		<path id="new-task-e_1_" fill="#FFFFFF" fill-opacity="0.3" d="M423.319,1161.511h213.885c5.34,0,9.668,4.328,9.668,9.668v48.342
+			c0,5.342-4.328,9.672-9.668,9.672H423.319c-5.342,0-9.668-4.33-9.668-9.672v-48.342
+			C413.651,1165.839,417.979,1161.511,423.319,1161.511z"/>
+	</g>
+	<path fill="#FFFFFF" d="M491.227,1192.544c0-2.703,2.613-4.742,6.072-4.742c3.414,0,5.787,1.691,6.133,4.365h-2.564
+		c-0.35-1.299-1.617-2.16-3.582-2.16c-1.936,0-3.443,0.982-3.443,2.432c0,1.117,0.906,1.812,2.824,2.281l2.508,0.605
+		c3.066,0.738,4.547,2.068,4.547,4.412c0,2.914-2.822,4.924-6.523,4.924c-3.625,0-6.119-1.736-6.406-4.441h2.676
+		c0.438,1.375,1.736,2.252,3.82,2.252c2.189,0,3.762-1.043,3.762-2.539c0-1.115-0.846-1.873-2.582-2.297l-2.795-0.68
+		C492.616,1196.216,491.227,1194.902,491.227,1192.544z M515.112,1187.802c4.152,0,6.844,3.309,6.844,8.432
+		c0,5.09-2.705,8.43-6.844,8.43c-2.326,0-4.199-1.014-5.094-2.734h-0.24v7.887h-2.6v-21.727h2.479v2.721h0.242
+		C510.942,1188.935,512.891,1187.802,515.112,1187.802z M514.493,1202.32c2.99,0,4.771-2.281,4.771-6.09s-1.781-6.09-4.76-6.09
+		c-2.945,0-4.803,2.344-4.803,6.09C509.704,1199.962,511.563,1202.32,514.493,1202.32z M530.43,1202.38
+		c2.676,0,4.654-1.754,4.654-4.08v-1.496l-4.383,0.287c-2.479,0.168-3.564,1.027-3.564,2.66
+		C527.137,1201.414,528.542,1202.38,530.43,1202.38z M529.948,1204.662c-3.158,0-5.5-1.875-5.5-4.852
+		c0-2.916,2.146-4.594,5.938-4.818l4.699-0.287v-1.48c0-2.008-1.254-3.109-3.688-3.109c-1.949,0-3.311,0.74-3.672,2.021h-2.629
+		c0.35-2.611,2.916-4.334,6.393-4.334c3.973,0,6.191,2.039,6.191,5.422v11.15h-2.479v-2.402h-0.24
+		C533.905,1203.708,532.124,1204.662,529.948,1204.662z M555.342,1193.074h-2.629c-0.422-1.617-1.855-2.934-4.199-2.934
+		c-2.93,0-4.771,2.344-4.771,6.029c0,3.762,1.873,6.146,4.771,6.146c2.191,0,3.719-1.014,4.199-2.854h2.629
+		c-0.469,2.99-2.898,5.197-6.811,5.197c-4.562,0-7.48-3.311-7.48-8.49c0-5.076,2.9-8.369,7.463-8.369
+		C552.473,1187.802,554.889,1190.173,555.342,1193.074z M565.057,1190.097c-2.598,0-4.41,1.904-4.605,4.789h8.973
+		C569.362,1192.001,567.641,1190.097,565.057,1190.097z M569.348,1200.16h2.6c-0.785,2.795-3.293,4.502-6.859,4.502
+		c-4.516,0-7.342-3.266-7.342-8.416c0-5.121,2.871-8.443,7.342-8.443c4.396,0,7.07,3.127,7.07,8.188v0.998H560.45v0.119
+		c0.137,3.219,1.934,5.258,4.699,5.258C567.249,1202.365,568.668,1201.593,569.348,1200.16z"/>
+	<g filter="url(#new-task-f)">
+		<path id="new-task-g_2_" d="M362.793,1161.511h31.504c5.34,0,9.67,4.328,9.67,9.668v48.342c0,5.342-4.33,9.672-9.67,9.672h-31.504
+			c-5.34,0-9.668-4.33-9.668-9.672v-48.342C353.125,1165.839,357.454,1161.511,362.793,1161.511z"/>
+	</g>
+	<g>
+		<path id="new-task-g_1_" fill="#FFFFFF" fill-opacity="0.3" d="M362.793,1161.511h31.504c5.34,0,9.67,4.328,9.67,9.668v48.342
+			c0,5.342-4.33,9.672-9.67,9.672h-31.504c-5.34,0-9.668-4.33-9.668-9.672v-48.342
+			C353.125,1165.839,357.454,1161.511,362.793,1161.511z"/>
+	</g>
+	<path fill="#FFFFFF" d="M386.686,1214.042c0,0.801-0.664,1.449-1.455,1.449H372.67c-0.803,0-1.455-0.645-1.455-1.449
+		c0-0.801,0.648-1.451,1.457-1.451h4.828v-3.867c-4.834,0-10.152-5.85-10.152-9.711c0-2.887,0-6.23,0-6.23
+		c0-0.809,0.646-1.459,1.451-1.459c0.801,0,1.449,0.656,1.449,1.445v6.244c0,2.9,3.867,6.77,8.701,6.77s8.703-3.867,8.703-6.77
+		v-6.244c0-0.801,0.643-1.445,1.447-1.445c0.803,0,1.451,0.658,1.451,1.469v6.223c0,3.861-5.316,9.713-10.15,9.713v3.865h4.824
+		C386.032,1212.591,386.686,1213.236,386.686,1214.042z M372.182,1183.58c0-3.734,3.037-6.762,6.77-6.762
+		c3.738,0,6.77,3.025,6.77,6.762v13.549c0,3.734-3.039,6.762-6.77,6.762c-3.736,0-6.77-3.025-6.77-6.762V1183.58z M375.083,1183.572
+		v13.564c0,2.111,1.732,3.854,3.867,3.854c2.15,0,3.867-1.725,3.867-3.854v-13.564c0-2.111-1.73-3.855-3.867-3.855
+		C376.799,1179.718,375.083,1181.443,375.083,1183.572z"/>
+	<g filter="url(#new-task-h)">
+		<path id="new-task-i_2_" d="M286.937,1161.511h46.836c5.34,0,9.668,4.328,9.668,9.668v48.342c0,5.342-4.328,9.672-9.668,9.672
+			h-46.836c-5.34,0-9.668-4.33-9.668-9.672v-48.342C277.269,1165.839,281.597,1161.511,286.937,1161.511z"/>
+	</g>
+	<g>
+		<path id="new-task-i_1_" fill="#FFFFFF" fill-opacity="0.13" d="M286.937,1161.511h46.836c5.34,0,9.668,4.328,9.668,9.668v48.342
+			c0,5.342-4.328,9.672-9.668,9.672h-46.836c-5.34,0-9.668-4.33-9.668-9.672v-48.342
+			C277.269,1165.839,281.597,1161.511,286.937,1161.511z"/>
+	</g>
+	<path fill="#FFFFFF" d="M309.952,1213.8c-10.413,0-18.854-8.439-18.854-18.854s8.441-18.854,18.854-18.854
+		c10.412,0,18.854,8.439,18.854,18.854C328.806,1205.359,320.364,1213.8,309.952,1213.8z M309.952,1211.867
+		c9.345,0,16.92-7.574,16.92-16.92s-7.575-16.92-16.92-16.92s-16.92,7.574-16.92,16.92S300.607,1211.867,309.952,1211.867z
+		 M304.15,1191.562c-1.335,0-2.417-1.082-2.417-2.418c0-1.334,1.082-2.416,2.417-2.416s2.418,1.082,2.418,2.416
+		C306.568,1190.48,305.485,1191.562,304.15,1191.562z M315.753,1191.562c-1.335,0-2.417-1.082-2.417-2.418
+		c0-1.334,1.082-2.416,2.417-2.416s2.417,1.082,2.417,2.416C318.17,1190.48,317.088,1191.562,315.753,1191.562z M296.682,1197.681
+		c-0.48-1.51,0.345-2.293,1.867-1.801c0,0,4.333,1.896,11.403,1.896s11.401-1.896,11.401-1.896c1.513-0.516,2.388,0.332,1.854,1.834
+		c0,0-1.945,10.43-13.257,10.43C298.638,1208.144,296.682,1197.681,296.682,1197.681z M309.952,1199.66
+		c-5.187,0-9.467-1.379-9.467-1.379c-1.021-0.279-1.31,0.188-0.562,0.934c0,0,1.544,3.273,10.028,3.273
+		c8.481,0,10.057-3.299,10.057-3.299c0.693-0.781,0.422-1.178-0.608-0.904C319.398,1198.285,315.137,1199.66,309.952,1199.66z"/>
+	<g filter="url(#new-task-j)">
+		<path id="new-task-k_2_" d="M211.886,1161.511h46.03c5.34,0,9.668,4.328,9.668,9.668v48.342c0,5.342-4.329,9.672-9.668,9.672
+			h-46.03c-5.34,0-9.668-4.33-9.668-9.672v-48.342C202.218,1165.839,206.546,1161.511,211.886,1161.511z"/>
+	</g>
+	<g>
+		<path id="new-task-k_1_" fill="#FFFFFF" fill-opacity="0.13" d="M211.886,1161.511h46.03c5.34,0,9.668,4.328,9.668,9.668v48.342
+			c0,5.342-4.329,9.672-9.668,9.672h-46.03c-5.34,0-9.668-4.33-9.668-9.672v-48.342
+			C202.218,1165.839,206.546,1161.511,211.886,1161.511z"/>
+	</g>
+	<path fill="#FFFFFF" d="M216.814,1205.986v-18.779h-0.242l-5.544,4.02v-2.869l5.801-4.172h2.704v21.803L216.814,1205.986
+		L216.814,1205.986z M225.274,1190.32c0-3.867,2.931-6.648,6.979-6.648c3.913,0,6.904,2.66,6.904,6.119
+		c0,2.266-1.027,4.033-4.607,7.871l-5.242,5.635v0.242h10.212v2.447h-14.11v-1.873l7.538-8.234c2.81-3.051,3.49-4.23,3.49-5.982
+		c0-2.176-1.858-3.852-4.26-3.852c-2.553,0-4.275,1.707-4.275,4.273v0.016h-2.629V1190.32L225.274,1190.32z M247.936,1195.939
+		v-2.326h2.644c2.478,0,4.23-1.604,4.23-3.867c0-2.221-1.677-3.701-4.185-3.701s-4.154,1.389-4.381,3.73H243.6
+		c0.272-3.775,2.976-6.104,7.13-6.104c3.807,0,6.843,2.537,6.843,5.711c0,2.598-1.435,4.502-3.822,5.076v0.24
+		c2.961,0.379,4.759,2.434,4.759,5.408c0,3.596-3.369,6.391-7.675,6.391c-4.426,0-7.478-2.463-7.674-6.193h2.629
+		c0.242,2.326,2.206,3.822,5.016,3.822c2.87,0,4.91-1.707,4.91-4.094c0-2.523-1.918-4.096-5.016-4.096h-2.764V1195.939z"/>
+	<g filter="url(#new-task-l)">
+		<path id="new-task-m_2_" d="M739.663,1077.716h48.451c5.34,0,9.668,4.328,9.668,9.668v48.342c0,5.34-4.328,9.67-9.668,9.67
+			h-48.451c-5.34,0-9.668-4.33-9.668-9.67v-48.342C729.995,1082.044,734.323,1077.716,739.663,1077.716z"/>
+	</g>
+	<g>
+		<path id="new-task-m_1_" fill="#FFFFFF" fill-opacity="0.13" d="M739.663,1077.716h48.451c5.34,0,9.668,4.328,9.668,9.668v48.342
+			c0,5.34-4.328,9.67-9.668,9.67h-48.451c-5.34,0-9.668-4.33-9.668-9.67v-48.342
+			C729.995,1082.044,734.323,1077.716,739.663,1077.716z"/>
+	</g>
+	<path fill="#FFFFFF" d="M742.708,1113.603c-1.131-1.131-1.117-2.979,0-4.096l13.016-13.016c0.76-0.76,2.24-1.373,3.32-1.373h20.293
+		c3.736,0,6.766,3.033,6.766,6.77v19.33c0,3.74-3.051,6.771-6.766,6.771h-20.293c-1.076,0-2.572-0.623-3.32-1.373L742.708,1113.603z
+		 M770.907,1111.513l5.461-5.461c0.566-0.568,0.576-1.494,0.01-2.061c-0.57-0.57-1.488-0.562-2.061,0.01l-5.461,5.461l-5.463-5.461
+		c-0.564-0.568-1.49-0.576-2.059-0.01c-0.57,0.568-0.562,1.488,0.008,2.061l5.461,5.461l-5.461,5.461
+		c-0.564,0.566-0.574,1.492-0.008,2.061c0.57,0.568,1.488,0.562,2.059-0.008l5.463-5.463l5.461,5.463
+		c0.566,0.564,1.492,0.572,2.061,0.008c0.57-0.57,0.562-1.488-0.01-2.061L770.907,1111.513z M745.899,1112.929
+		c-0.76-0.758-0.758-1.99,0-2.746l11.475-11.473c0.381-0.381,1.125-0.689,1.645-0.689h20.312c2.139,0,3.871,1.734,3.871,3.879
+		v19.312c0,2.143-1.729,3.879-3.871,3.879h-20.312c-0.525,0-1.264-0.307-1.645-0.688L745.899,1112.929z"/>
+	<g filter="url(#new-task-n)">
+		<path id="new-task-o_2_" d="M666.227,1077.716h31.506c5.34,0,9.668,4.328,9.668,9.668v48.342c0,5.34-4.328,9.67-9.668,9.67
+			h-31.506c-5.34,0-9.668-4.33-9.668-9.67v-48.342C656.559,1082.044,660.887,1077.716,666.227,1077.716z"/>
+	</g>
+	<g>
+		<path id="new-task-o_1_" fill="#FFFFFF" fill-opacity="0.3" d="M666.227,1077.716h31.506c5.34,0,9.668,4.328,9.668,9.668v48.342
+			c0,5.34-4.328,9.67-9.668,9.67h-31.506c-5.34,0-9.668-4.33-9.668-9.67v-48.342
+			C656.559,1082.044,660.887,1077.716,666.227,1077.716z"/>
+	</g>
+	<path fill="#FFFFFF" d="M665.231,1125.333v-24.549h3.869v3.918h0.096c1.154-2.598,3.656-4.344,6.963-4.344
+		c3.354,0,5.832,1.699,6.893,4.674h0.096c1.369-2.928,4.25-4.674,7.695-4.674c4.861,0,8.002,3.164,8.002,8.025v16.947h-4.105
+		v-16.004c0-3.354-1.865-5.334-5.102-5.334c-3.256,0-5.547,2.406-5.547,5.732v15.605h-4.105v-16.453
+		c0-2.951-1.982-4.887-5.027-4.887c-3.258,0-5.617,2.549-5.617,5.949v15.391L665.231,1125.333L665.231,1125.333z"/>
+	<g filter="url(#new-task-p)">
+		<path id="new-task-q_2_" d="M605.702,1077.716h31.504c5.34,0,9.668,4.328,9.668,9.668v48.342c0,5.34-4.328,9.67-9.668,9.67
+			h-31.504c-5.34,0-9.668-4.33-9.668-9.67v-48.342C596.034,1082.044,600.362,1077.716,605.702,1077.716z"/>
+	</g>
+	<g>
+		<path id="new-task-q_1_" fill="#FFFFFF" fill-opacity="0.3" d="M605.702,1077.716h31.504c5.34,0,9.668,4.328,9.668,9.668v48.342
+			c0,5.34-4.328,9.67-9.668,9.67h-31.504c-5.34,0-9.668-4.33-9.668-9.67v-48.342
+			C596.034,1082.044,600.362,1077.716,605.702,1077.716z"/>
+	</g>
+	<path fill="#FFFFFF" d="M611.79,1125.333v-24.549h3.871v3.918h0.094c1.369-2.645,3.99-4.344,7.791-4.344
+		c5.381,0,8.496,3.471,8.496,9.041v15.934h-4.107v-15.201c0-3.965-1.861-6.137-5.641-6.137c-3.871,0-6.396,2.738-6.396,6.893v14.445
+		H611.79z"/>
+	<g filter="url(#new-task-r)">
+		<path id="new-task-s_2_" d="M545.176,1077.716h31.504c5.342,0,9.67,4.328,9.67,9.668v48.342c0,5.34-4.328,9.67-9.67,9.67h-31.504
+			c-5.34,0-9.668-4.33-9.668-9.67v-48.342C535.508,1082.044,539.836,1077.716,545.176,1077.716z"/>
+	</g>
+	<g>
+		<path id="new-task-s_1_" fill="#FFFFFF" fill-opacity="0.3" d="M545.176,1077.716h31.504c5.342,0,9.67,4.328,9.67,9.668v48.342
+			c0,5.34-4.328,9.67-9.67,9.67h-31.504c-5.34,0-9.668-4.33-9.668-9.67v-48.342C535.508,1082.044,539.836,1077.716,545.176,1077.716
+			z"/>
+	</g>
+	<path fill="#FFFFFF" d="M562.807,1125.759c-3.588,0-6.396-1.748-7.979-4.58h-0.094v4.154h-3.918v-34.061h4.104v13.617h0.096
+		c1.533-2.809,4.393-4.531,7.859-4.531c6.186,0,10.363,5.006,10.363,12.699C573.241,1120.779,569.086,1125.759,562.807,1125.759z
+		 M562.004,1103.972c-4.154,0-7.104,3.637-7.104,9.088c0,5.477,2.949,9.09,7.104,9.09c4.344,0,7.035-3.473,7.035-9.09
+		C569.04,1107.488,566.348,1103.972,562.004,1103.972z"/>
+	<g filter="url(#new-task-t)">
+		<path id="new-task-u_2_" d="M484.653,1077.716h31.504c5.34,0,9.668,4.328,9.668,9.668v48.342c0,5.34-4.328,9.67-9.668,9.67
+			h-31.504c-5.34,0-9.67-4.33-9.67-9.67v-48.342C474.983,1082.044,479.313,1077.716,484.653,1077.716z"/>
+	</g>
+	<g>
+		<path id="new-task-u_1_" fill="#FFFFFF" fill-opacity="0.3" d="M484.653,1077.716h31.504c5.34,0,9.668,4.328,9.668,9.668v48.342
+			c0,5.34-4.328,9.67-9.668,9.67h-31.504c-5.34,0-9.67-4.33-9.67-9.67v-48.342C474.983,1082.044,479.313,1077.716,484.653,1077.716z
+			"/>
+	</g>
+	<polygon fill="#FFFFFF" points="511.131,1100.785 502.114,1125.333 497.913,1125.333 488.87,1100.785 493.19,1100.785 
+		499.965,1120.966 500.059,1120.966 506.858,1100.785 	"/>
+	<g filter="url(#new-task-v)">
+		<path id="new-task-w_2_" d="M423.319,1077.716h31.504c5.34,0,9.668,4.328,9.668,9.668v48.342c0,5.34-4.328,9.67-9.668,9.67
+			h-31.504c-5.342,0-9.668-4.33-9.668-9.67v-48.342C413.651,1082.044,417.979,1077.716,423.319,1077.716z"/>
+	</g>
+	<g>
+		<path id="new-task-w_1_" fill="#FFFFFF" fill-opacity="0.3" d="M423.319,1077.716h31.504c5.34,0,9.668,4.328,9.668,9.668v48.342
+			c0,5.34-4.328,9.67-9.668,9.67h-31.504c-5.342,0-9.668-4.33-9.668-9.67v-48.342
+			C413.651,1082.044,417.979,1077.716,423.319,1077.716z"/>
+	</g>
+	<path fill="#FFFFFF" d="M450.024,1108.833h-4.014c-0.592-2.666-2.668-4.861-6.277-4.861c-4.25,0-7.131,3.518-7.131,9.088
+		c0,5.711,2.93,9.088,7.178,9.088c3.352,0,5.547-1.77,6.256-4.723h4.035c-0.639,4.887-4.744,8.334-10.314,8.334
+		c-6.799,0-11.33-4.793-11.33-12.699c0-7.744,4.51-12.699,11.283-12.699C445.846,1100.359,449.504,1104.419,450.024,1108.833z"/>
+	<g filter="url(#new-task-x)">
+		<path id="new-task-y_2_" d="M362.793,1077.716h31.504c5.34,0,9.67,4.328,9.67,9.668v48.342c0,5.34-4.33,9.67-9.67,9.67h-31.504
+			c-5.34,0-9.668-4.33-9.668-9.67v-48.342C353.125,1082.044,357.454,1077.716,362.793,1077.716z"/>
+	</g>
+	<g>
+		<path id="new-task-y_1_" fill="#FFFFFF" fill-opacity="0.3" d="M362.793,1077.716h31.504c5.34,0,9.67,4.328,9.67,9.668v48.342
+			c0,5.34-4.33,9.67-9.67,9.67h-31.504c-5.34,0-9.668-4.33-9.668-9.67v-48.342C353.125,1082.044,357.454,1077.716,362.793,1077.716z
+			"/>
+	</g>
+	<polygon fill="#FFFFFF" points="378.557,1115.986 378.465,1115.986 372.54,1125.333 367.985,1125.333 376.34,1113.06 
+		368.125,1100.785 372.704,1100.785 378.606,1109.992 378.702,1109.992 384.532,1100.785 389.11,1100.785 380.825,1112.894 
+		388.993,1125.333 384.438,1125.333 	"/>
+	<g filter="url(#new-task-z)">
+		<path id="new-task-A_2_" d="M302.27,1077.716h31.506c5.34,0,9.668,4.328,9.668,9.668v48.342c0,5.34-4.328,9.67-9.668,9.67H302.27
+			c-5.338,0-9.667-4.33-9.667-9.67v-48.342C292.601,1082.044,296.93,1077.716,302.27,1077.716z"/>
+	</g>
+	<g>
+		<path id="new-task-A_1_" fill="#FFFFFF" fill-opacity="0.3" d="M302.27,1077.716h31.506c5.34,0,9.668,4.328,9.668,9.668v48.342
+			c0,5.34-4.328,9.67-9.668,9.67H302.27c-5.338,0-9.667-4.33-9.667-9.67v-48.342C292.601,1082.044,296.93,1077.716,302.27,1077.716z
+			"/>
+	</g>
+	<polygon fill="#FFFFFF" points="308.459,1125.333 308.459,1122.408 322.057,1104.23 322.057,1104.162 308.484,1104.162 
+		308.484,1100.785 326.705,1100.785 326.705,1103.783 313.204,1121.888 313.204,1121.958 326.777,1121.958 326.777,1125.333 	"/>
+	<g filter="url(#new-task-B)">
+		<path id="new-task-C_2_" d="M211.886,1077.716h48.451c5.34,0,9.668,4.328,9.668,9.668v48.342c0,5.34-4.329,9.67-9.668,9.67
+			h-48.451c-5.34,0-9.668-4.33-9.668-9.67v-48.342C202.218,1082.044,206.546,1077.716,211.886,1077.716z"/>
+	</g>
+	<g>
+		<path id="new-task-C_1_" fill="#FFFFFF" fill-opacity="0.13" d="M211.886,1077.716h48.451c5.34,0,9.668,4.328,9.668,9.668v48.342
+			c0,5.34-4.329,9.67-9.668,9.67h-48.451c-5.34,0-9.668-4.33-9.668-9.67v-48.342
+			C202.218,1082.044,206.546,1077.716,211.886,1077.716z"/>
+	</g>
+	<path fill="#FFFFFF" d="M237.411,1094.695l16.694,18.213c1.815,1.979,1.104,3.574-1.576,3.574h-6.749v8.703
+		c0,1.611-1.296,2.896-2.895,2.896h-13.547c-1.596,0-2.895-1.297-2.895-2.896v-8.703h-6.749c-2.671,0-3.386-1.602-1.576-3.574
+		l16.696-18.213C235.521,1093.923,236.693,1093.912,237.411,1094.695z M236.772,1098.816c-0.365-0.391-0.964-0.381-1.322,0
+		l-13.842,14.766h7.735v10.652c0,0.523,0.45,0.947,0.974,0.947h11.589c0.538,0,0.973-0.438,0.973-0.947v-10.652h7.735
+		L236.772,1098.816z"/>
+	<g filter="url(#new-task-D)">
+		<path id="new-task-E_2_" d="M726.752,990.699h31.504c5.34,0,9.668,4.33,9.668,9.668v48.344c0,5.34-4.328,9.668-9.668,9.668
+			h-31.504c-5.34,0-9.67-4.328-9.67-9.668v-48.344C717.083,995.029,721.413,990.699,726.752,990.699z"/>
+	</g>
+	<g>
+		<path id="new-task-E_1_" fill="#FFFFFF" fill-opacity="0.3" d="M726.752,990.699h31.504c5.34,0,9.668,4.33,9.668,9.668v48.344
+			c0,5.34-4.328,9.668-9.668,9.668h-31.504c-5.34,0-9.67-4.328-9.67-9.668v-48.344C717.083,995.029,721.413,990.699,726.752,990.699
+			z"/>
+	</g>
+	<polygon fill="#FFFFFF" points="740.854,1038.316 740.854,1004.255 744.959,1004.255 744.959,1038.316 	"/>
+	<g filter="url(#new-task-F)">
+		<path id="new-task-G_2_" d="M666.227,990.699h31.506c5.34,0,9.668,4.33,9.668,9.668v48.344c0,5.34-4.328,9.668-9.668,9.668
+			h-31.506c-5.34,0-9.668-4.328-9.668-9.668v-48.344C656.559,995.029,660.887,990.699,666.227,990.699z"/>
+	</g>
+	<g>
+		<path id="new-task-G_1_" fill="#FFFFFF" fill-opacity="0.3" d="M666.227,990.699h31.506c5.34,0,9.668,4.33,9.668,9.668v48.344
+			c0,5.34-4.328,9.668-9.668,9.668h-31.506c-5.34,0-9.668-4.328-9.668-9.668v-48.344
+			C656.559,995.029,660.887,990.699,666.227,990.699z"/>
+	</g>
+	<polygon fill="#FFFFFF" points="677.233,1024.673 688.09,1013.769 693.073,1013.769 682.428,1024.367 693.403,1038.316 
+		688.635,1038.316 679.522,1026.892 677.233,1029.062 677.233,1038.316 673.125,1038.316 673.125,1004.255 677.233,1004.255 	"/>
+	<g filter="url(#new-task-H)">
+		<path id="new-task-I_2_" d="M605.702,990.699h31.504c5.34,0,9.668,4.33,9.668,9.668v48.344c0,5.34-4.328,9.668-9.668,9.668
+			h-31.504c-5.34,0-9.668-4.328-9.668-9.668v-48.344C596.034,995.029,600.362,990.699,605.702,990.699z"/>
+	</g>
+	<g>
+		<path id="new-task-I_1_" fill="#FFFFFF" fill-opacity="0.3" d="M605.702,990.699h31.504c5.34,0,9.668,4.33,9.668,9.668v48.344
+			c0,5.34-4.328,9.668-9.668,9.668h-31.504c-5.34,0-9.668-4.328-9.668-9.668v-48.344
+			C596.034,995.029,600.362,990.699,605.702,990.699z"/>
+	</g>
+	<path fill="#FFFFFF" d="M624.313,1013.769v25.752c0,4.98-2.359,7.246-7.602,7.246c-0.07,0-0.73,0-0.779-0.021v-3.422h0.639
+		c2.668,0,3.637-1.018,3.637-3.754v-25.801H624.313L624.313,1013.769z M622.26,1009.638c-1.393,0-2.549-1.156-2.549-2.551
+		c0-1.416,1.156-2.549,2.549-2.549c1.416,0,2.572,1.133,2.572,2.549C624.833,1008.48,623.676,1009.638,622.26,1009.638z"/>
+	<g filter="url(#new-task-J)">
+		<path id="new-task-K_2_" d="M545.176,990.699h31.504c5.342,0,9.67,4.33,9.67,9.668v48.344c0,5.34-4.328,9.668-9.67,9.668h-31.504
+			c-5.34,0-9.668-4.328-9.668-9.668v-48.344C535.508,995.029,539.836,990.699,545.176,990.699z"/>
+	</g>
+	<g>
+		<path id="new-task-K_1_" fill="#FFFFFF" fill-opacity="0.3" d="M545.176,990.699h31.504c5.342,0,9.67,4.33,9.67,9.668v48.344
+			c0,5.34-4.328,9.668-9.67,9.668h-31.504c-5.34,0-9.668-4.328-9.668-9.668v-48.344
+			C535.508,995.029,539.836,990.699,545.176,990.699z"/>
+	</g>
+	<path fill="#FFFFFF" d="M551.182,1038.318v-34.062h4.107v13.43h0.094c1.369-2.736,4.062-4.342,7.789-4.342
+		c5.383,0,8.641,3.635,8.641,9.111v15.861h-4.105v-15.107c0-3.895-1.959-6.229-5.807-6.229c-4.084,0-6.609,2.783-6.609,7.031v14.307
+		H551.182L551.182,1038.318z"/>
+	<g filter="url(#new-task-L)">
+		<path id="new-task-M_2_" d="M484.653,990.699h31.504c5.34,0,9.668,4.33,9.668,9.668v48.344c0,5.34-4.328,9.668-9.668,9.668
+			h-31.504c-5.34,0-9.67-4.328-9.67-9.668v-48.344C474.983,995.029,479.313,990.699,484.653,990.699z"/>
+	</g>
+	<g>
+		<path id="new-task-M_1_" fill="#FFFFFF" fill-opacity="0.3" d="M484.653,990.699h31.504c5.34,0,9.668,4.33,9.668,9.668v48.344
+			c0,5.34-4.328,9.668-9.668,9.668h-31.504c-5.34,0-9.67-4.328-9.67-9.668v-48.344C474.983,995.029,479.313,990.699,484.653,990.699
+			z"/>
+	</g>
+	<path fill="#FFFFFF" d="M500.182,1034.894c4.271,0,7.129-3.541,7.129-8.943c0-5.406-2.855-8.994-7.129-8.994
+		c-4.227,0-6.986,3.494-6.986,8.994S495.956,1034.894,500.182,1034.894z M500.323,1047.57c-5.404,0-9.68-3.045-10.361-7.225h4.225
+		c0.805,2.242,3.234,3.73,6.305,3.73c4.248,0,6.82-2.455,6.82-6.115v-3.871h-0.096c-1.51,2.668-4.414,4.414-7.857,4.414
+		c-6.258,0-10.363-4.934-10.363-12.557c0-7.695,4.105-12.605,10.457-12.605c3.471,0,6.35,1.699,7.979,4.557h0.07v-4.131h3.918
+		v24.055C511.417,1043.675,507.098,1047.57,500.323,1047.57z"/>
+	<g filter="url(#new-task-N)">
+		<path id="new-task-O_2_" d="M423.319,990.699h31.504c5.34,0,9.668,4.33,9.668,9.668v48.344c0,5.34-4.328,9.668-9.668,9.668
+			h-31.504c-5.342,0-9.668-4.328-9.668-9.668v-48.344C413.651,995.029,417.979,990.699,423.319,990.699z"/>
+	</g>
+	<g>
+		<path id="new-task-O_1_" fill="#FFFFFF" fill-opacity="0.3" d="M423.319,990.699h31.504c5.34,0,9.668,4.33,9.668,9.668v48.344
+			c0,5.34-4.328,9.668-9.668,9.668h-31.504c-5.342,0-9.668-4.328-9.668-9.668v-48.344
+			C413.651,995.029,417.979,990.699,423.319,990.699z"/>
+	</g>
+	<path fill="#FFFFFF" d="M435.317,1038.318v-21.176h-3.426v-3.375h3.426v-2.736c0-4.723,2.193-6.965,6.727-6.965
+		c0.92,0,1.912,0.096,2.502,0.188v3.328c-0.496-0.07-1.18-0.141-1.865-0.141c-2.219,0-3.277,1.18-3.277,3.609v2.715h5.025v3.375
+		h-5.004v21.174L435.317,1038.318L435.317,1038.318z"/>
+	<g filter="url(#new-task-P)">
+		<path id="new-task-Q_2_" d="M362.793,990.699h31.504c5.34,0,9.67,4.33,9.67,9.668v48.344c0,5.34-4.33,9.668-9.67,9.668h-31.504
+			c-5.34,0-9.668-4.328-9.668-9.668v-48.344C353.125,995.029,357.454,990.699,362.793,990.699z"/>
+	</g>
+	<g>
+		<path id="new-task-Q_1_" fill="#FFFFFF" fill-opacity="0.3" d="M362.793,990.699h31.504c5.34,0,9.67,4.33,9.67,9.668v48.344
+			c0,5.34-4.33,9.668-9.67,9.668h-31.504c-5.34,0-9.668-4.328-9.668-9.668v-48.344C353.125,995.029,357.454,990.699,362.793,990.699
+			z"/>
+	</g>
+	<path fill="#FFFFFF" d="M377.131,1038.742c-6.256,0-10.506-5.004-10.506-12.699s4.227-12.699,10.41-12.699
+		c3.518,0,6.35,1.725,7.812,4.414h0.096v-13.502h4.105v34.062h-3.918v-4.154h-0.072
+		C383.481,1036.996,380.67,1038.742,377.131,1038.742z M377.909,1016.955c-4.342,0-7.08,3.541-7.08,9.088
+		c0,5.57,2.738,9.088,7.08,9.088c4.227,0,7.059-3.588,7.059-9.088C384.967,1020.566,382.135,1016.955,377.909,1016.955z"/>
+	<g filter="url(#new-task-R)">
+		<path id="new-task-S_2_" d="M302.27,990.699h31.506c5.34,0,9.668,4.33,9.668,9.668v48.344c0,5.34-4.328,9.668-9.668,9.668H302.27
+			c-5.338,0-9.667-4.328-9.667-9.668v-48.344C292.601,995.029,296.93,990.699,302.27,990.699z"/>
+	</g>
+	<g>
+		<path id="new-task-S_1_" fill="#FFFFFF" fill-opacity="0.3" d="M302.27,990.699h31.506c5.34,0,9.668,4.33,9.668,9.668v48.344
+			c0,5.34-4.328,9.668-9.668,9.668H302.27c-5.338,0-9.667-4.328-9.667-9.668v-48.344C292.601,995.029,296.93,990.699,302.27,990.699
+			z"/>
+	</g>
+	<path fill="#FFFFFF" d="M308.613,1020.542c0-4.201,3.753-7.199,9.158-7.199c5.073,0,8.805,3.021,8.992,7.178h-3.919
+		c-0.282-2.361-2.193-3.824-5.217-3.824c-2.997,0-4.979,1.486-4.979,3.635c0,1.701,1.3,2.834,4.085,3.541l3.8,0.922
+		c4.957,1.25,6.751,3.045,6.751,6.656c0,4.27-4.036,7.293-9.772,7.293c-5.382,0-9.135-2.926-9.56-7.271h4.105
+		c0.448,2.553,2.386,3.92,5.713,3.92s5.383-1.418,5.383-3.637c0-1.746-1.017-2.688-3.776-3.422l-4.319-1.109
+		C310.737,1026.113,308.613,1023.894,308.613,1020.542z"/>
+	<g filter="url(#new-task-T)">
+		<path id="new-task-U_2_" d="M241.745,990.699h31.504c5.339,0,9.668,4.33,9.668,9.668v48.344c0,5.34-4.329,9.668-9.668,9.668
+			h-31.504c-5.34,0-9.668-4.328-9.668-9.668v-48.344C232.076,995.029,236.405,990.699,241.745,990.699z"/>
+	</g>
+	<g>
+		<path id="new-task-U_1_" fill="#FFFFFF" fill-opacity="0.3" d="M241.745,990.699h31.504c5.339,0,9.668,4.33,9.668,9.668v48.344
+			c0,5.34-4.329,9.668-9.668,9.668h-31.504c-5.34,0-9.668-4.328-9.668-9.668v-48.344
+			C232.076,995.029,236.405,990.699,241.745,990.699z"/>
+	</g>
+	<path fill="#FFFFFF" d="M256.531,1035.248c3.872,0,6.846-2.713,6.846-6.254v-2.006l-6.562,0.398
+		c-3.305,0.213-5.193,1.678-5.193,3.988C251.622,1033.714,253.581,1035.248,256.531,1035.248z M255.611,1038.742
+		c-4.886,0-8.167-2.951-8.167-7.365c0-4.201,3.234-6.844,8.899-7.176l7.034-0.4v-2.053c0-2.998-1.983-4.793-5.382-4.793
+		c-3.163,0-5.146,1.488-5.665,3.895h-3.966c0.283-4.248,3.918-7.506,9.725-7.506c5.76,0,9.395,3.115,9.395,8.002v16.975h-3.895
+		v-4.229h-0.094C262.031,1036.9,258.916,1038.742,255.611,1038.742z"/>
+	<g filter="url(#new-task-V)">
+		<path id="new-task-W_2_" d="M756.61,903.683h31.504c5.34,0,9.668,4.328,9.668,9.668v48.344c0,5.34-4.328,9.67-9.668,9.67H756.61
+			c-5.342,0-9.668-4.33-9.668-9.67v-48.344C746.942,908.011,751.272,903.683,756.61,903.683z"/>
+	</g>
+	<g>
+		<path id="new-task-W_1_" fill="#FFFFFF" fill-opacity="0.3" d="M756.61,903.683h31.504c5.34,0,9.668,4.328,9.668,9.668v48.344
+			c0,5.34-4.328,9.67-9.668,9.67H756.61c-5.342,0-9.668-4.33-9.668-9.67v-48.344C746.942,908.011,751.272,903.683,756.61,903.683z"
+			/>
+	</g>
+	<path fill="#FFFFFF" d="M774.075,926.328c6.256,0,10.504,5.004,10.504,12.699c0,7.693-4.225,12.697-10.408,12.697
+		c-3.518,0-6.35-1.725-7.812-4.414h-0.096v12.182h-4.105v-32.74h3.895v4.154h0.098C767.655,928.144,770.51,926.328,774.075,926.328z
+		 M773.272,948.115c4.365,0,7.104-3.52,7.104-9.088c0-5.549-2.738-9.09-7.104-9.09c-4.201,0-7.033,3.637-7.033,9.09
+		C766.239,944.503,769.071,948.115,773.272,948.115z"/>
+	<g filter="url(#new-task-X)">
+		<path id="new-task-Y_2_" d="M696.084,903.683h31.504c5.34,0,9.67,4.328,9.67,9.668v48.344c0,5.34-4.33,9.67-9.67,9.67h-31.504
+			c-5.34,0-9.668-4.33-9.668-9.67v-48.344C686.417,908.011,690.745,903.683,696.084,903.683z"/>
+	</g>
+	<g>
+		<path id="new-task-Y_1_" fill="#FFFFFF" fill-opacity="0.3" d="M696.084,903.683h31.504c5.34,0,9.67,4.328,9.67,9.668v48.344
+			c0,5.34-4.33,9.67-9.67,9.67h-31.504c-5.34,0-9.668-4.33-9.668-9.67v-48.344C686.417,908.011,690.745,903.683,696.084,903.683z"/>
+	</g>
+	<path fill="#FFFFFF" d="M711.848,951.726c-6.797,0-11.377-4.887-11.377-12.697c0-7.838,4.58-12.699,11.377-12.699
+		c6.775,0,11.355,4.861,11.355,12.699C723.204,946.839,718.624,951.726,711.848,951.726z M711.848,948.115
+		c4.346,0,7.178-3.307,7.178-9.088c0-5.783-2.832-9.09-7.178-9.09c-4.342,0-7.197,3.307-7.197,9.09
+		C704.651,944.808,707.506,948.115,711.848,948.115z"/>
+	<g filter="url(#new-task-Z)">
+		<path id="new-task-aa_2_" d="M635.561,903.683h31.506c5.34,0,9.668,4.328,9.668,9.668v48.344c0,5.34-4.328,9.67-9.668,9.67
+			h-31.506c-5.34,0-9.67-4.33-9.67-9.67v-48.344C625.891,908.011,630.221,903.683,635.561,903.683z"/>
+	</g>
+	<g>
+		<path id="new-task-aa_1_" fill="#FFFFFF" fill-opacity="0.3" d="M635.561,903.683h31.506c5.34,0,9.668,4.328,9.668,9.668v48.344
+			c0,5.34-4.328,9.67-9.668,9.67h-31.506c-5.34,0-9.67-4.33-9.67-9.67v-48.344C625.891,908.011,630.221,903.683,635.561,903.683z"/>
+	</g>
+	<path fill="#FFFFFF" d="M648.856,951.3v-24.549h4.104V951.3H648.856z M650.909,922.621c-1.395,0-2.549-1.156-2.549-2.549
+		c0-1.416,1.154-2.551,2.549-2.551c1.416,0,2.572,1.135,2.572,2.551C653.481,921.464,652.325,922.621,650.909,922.621z"/>
+	<g filter="url(#new-task-ab)">
+		<path id="new-task-ac_2_" d="M575.036,903.683h31.504c5.34,0,9.668,4.328,9.668,9.668v48.344c0,5.34-4.328,9.67-9.668,9.67
+			h-31.504c-5.34,0-9.668-4.33-9.668-9.67v-48.344C565.368,908.011,569.696,903.683,575.036,903.683z"/>
+	</g>
+	<g>
+		<path id="new-task-ac_1_" fill="#FFFFFF" fill-opacity="0.3" d="M575.036,903.683h31.504c5.34,0,9.668,4.328,9.668,9.668v48.344
+			c0,5.34-4.328,9.67-9.668,9.67h-31.504c-5.34,0-9.668-4.33-9.668-9.67v-48.344C565.368,908.011,569.696,903.683,575.036,903.683z"
+			/>
+	</g>
+	<path fill="#FFFFFF" d="M600.475,926.751V951.3h-3.895v-3.986h-0.096c-1.463,2.83-4.014,4.412-7.789,4.412
+		c-5.357,0-8.498-3.471-8.498-9.041v-15.934h4.105v15.201c0,3.99,1.865,6.139,5.666,6.139c3.988,0,6.396-2.736,6.396-6.918v-14.422
+		H600.475L600.475,926.751z"/>
+	<g filter="url(#new-task-ad)">
+		<path id="new-task-ae_2_" d="M514.51,903.683h31.504c5.342,0,9.668,4.328,9.668,9.668v48.344c0,5.34-4.326,9.67-9.668,9.67H514.51
+			c-5.34,0-9.668-4.33-9.668-9.67v-48.344C504.842,908.011,509.17,903.683,514.51,903.683z"/>
+	</g>
+	<g>
+		<path id="new-task-ae_1_" fill="#FFFFFF" fill-opacity="0.3" d="M514.51,903.683h31.504c5.342,0,9.668,4.328,9.668,9.668v48.344
+			c0,5.34-4.326,9.67-9.668,9.67H514.51c-5.34,0-9.668-4.33-9.668-9.67v-48.344C504.842,908.011,509.17,903.683,514.51,903.683z"/>
+	</g>
+	<path fill="#FFFFFF" d="M522.813,960.482c-0.496,0-1.322-0.049-1.771-0.143v-3.447c0.447,0.098,1.084,0.119,1.604,0.119
+		c2.289,0,3.562-1.107,4.51-3.965l0.564-1.725l-9.062-24.572h4.391l6.799,20.439h0.07l6.797-20.439h4.32l-9.654,26.271
+		C529.28,958.759,527.25,960.482,522.813,960.482z"/>
+	<g filter="url(#new-task-af)">
+		<path id="new-task-ag_2_" d="M453.985,903.683h31.504c5.34,0,9.67,4.328,9.67,9.668v48.344c0,5.34-4.33,9.67-9.67,9.67h-31.504
+			c-5.342,0-9.668-4.33-9.668-9.67v-48.344C444.317,908.011,448.647,903.683,453.985,903.683z"/>
+	</g>
+	<g>
+		<path id="new-task-ag_1_" fill="#FFFFFF" fill-opacity="0.3" d="M453.985,903.683h31.504c5.34,0,9.67,4.328,9.67,9.668v48.344
+			c0,5.34-4.33,9.67-9.67,9.67h-31.504c-5.342,0-9.668-4.33-9.668-9.67v-48.344C444.317,908.011,448.647,903.683,453.985,903.683z"
+			/>
+	</g>
+	<path fill="#FFFFFF" d="M466.042,920.828h4.107v5.924h4.768v3.375h-4.768v14.588c0,2.242,0.941,3.258,3.045,3.258
+		c0.473,0,1.416-0.068,1.697-0.115v3.443c-0.494,0.119-1.629,0.189-2.596,0.189c-4.51,0-6.256-1.842-6.256-6.562v-14.801h-3.658
+		v-3.375h3.658L466.042,920.828L466.042,920.828z"/>
+	<g filter="url(#new-task-ah)">
+		<path id="new-task-ai_2_" d="M393.461,903.683h31.504c5.34,0,9.668,4.328,9.668,9.668v48.344c0,5.34-4.328,9.67-9.668,9.67
+			h-31.504c-5.34,0-9.67-4.33-9.67-9.67v-48.344C383.792,908.011,388.122,903.683,393.461,903.683z"/>
+	</g>
+	<g>
+		<path id="new-task-ai_1_" fill="#FFFFFF" fill-opacity="0.3" d="M393.461,903.683h31.504c5.34,0,9.668,4.328,9.668,9.668v48.344
+			c0,5.34-4.328,9.67-9.668,9.67h-31.504c-5.34,0-9.67-4.33-9.67-9.67v-48.344C383.792,908.011,388.122,903.683,393.461,903.683z"/>
+	</g>
+	<path fill="#FFFFFF" d="M404.836,951.3v-24.549h3.871v4.014h0.094c0.805-2.715,3.068-4.438,5.949-4.438
+		c0.707,0,1.322,0.117,1.652,0.164v3.99c-0.33-0.119-1.203-0.236-2.195-0.236c-3.189,0-5.264,2.289-5.264,5.76V951.3H404.836z"/>
+	<g filter="url(#new-task-aj)">
+		<path id="new-task-ak_2_" d="M332.936,903.683h31.506c5.34,0,9.668,4.328,9.668,9.668v48.344c0,5.34-4.328,9.67-9.668,9.67
+			h-31.506c-5.34,0-9.668-4.33-9.668-9.67v-48.344C323.268,908.011,327.596,903.683,332.936,903.683z"/>
+	</g>
+	<g>
+		<path id="new-task-ak_1_" fill="#FFFFFF" fill-opacity="0.3" d="M332.936,903.683h31.506c5.34,0,9.668,4.328,9.668,9.668v48.344
+			c0,5.34-4.328,9.67-9.668,9.67h-31.506c-5.34,0-9.668-4.33-9.668-9.67v-48.344C323.268,908.011,327.596,903.683,332.936,903.683z"
+			/>
+	</g>
+	<path fill="#FFFFFF" d="M349.221,929.89c-3.847,0-6.538,2.951-6.798,7.035h13.337C355.665,932.818,353.092,929.89,349.221,929.89z
+		 M355.665,944.267h4.037c-0.709,4.297-4.863,7.459-10.221,7.459c-7.034,0-11.309-4.887-11.309-12.604
+		c0-7.625,4.344-12.795,11.118-12.795c6.632,0,10.716,4.814,10.716,12.252v1.557h-17.607v0.236c0,4.697,2.762,7.789,7.175,7.789
+		C352.692,948.162,354.981,946.58,355.665,944.267z"/>
+	<g filter="url(#new-task-al)">
+		<path id="new-task-am_2_" d="M272.411,903.683h31.504c5.34,0,9.668,4.328,9.668,9.668v48.344c0,5.34-4.328,9.67-9.668,9.67
+			h-31.504c-5.34,0-9.668-4.33-9.668-9.67v-48.344C262.743,908.011,267.071,903.683,272.411,903.683z"/>
+	</g>
+	<g>
+		<path id="new-task-am_1_" fill="#FFFFFF" fill-opacity="0.3" d="M272.411,903.683h31.504c5.34,0,9.668,4.328,9.668,9.668v48.344
+			c0,5.34-4.328,9.67-9.668,9.67h-31.504c-5.34,0-9.668-4.33-9.668-9.67v-48.344C262.743,908.011,267.071,903.683,272.411,903.683z"
+			/>
+	</g>
+	<polygon fill="#FFFFFF" points="304.365,926.751 297.521,951.3 293.341,951.3 287.795,932.3 287.701,932.3 282.176,951.3 
+		278,951.3 271.129,926.751 275.213,926.751 280.123,946.72 280.217,946.72 285.765,926.751 289.731,926.751 295.3,946.72 
+		295.395,946.72 300.305,926.751 	"/>
+	<g filter="url(#new-task-an)">
+		<path id="new-task-ao_2_" d="M211.886,903.683h31.504c5.34,0,9.668,4.328,9.668,9.668v48.344c0,5.34-4.329,9.67-9.668,9.67
+			h-31.504c-5.34,0-9.668-4.33-9.668-9.67v-48.344C202.218,908.011,206.546,903.683,211.886,903.683z"/>
+	</g>
+	<g>
+		<path id="new-task-ao_1_" fill="#FFFFFF" fill-opacity="0.3" d="M211.886,903.683h31.504c5.34,0,9.668,4.328,9.668,9.668v48.344
+			c0,5.34-4.329,9.67-9.668,9.67h-31.504c-5.34,0-9.668-4.33-9.668-9.67v-48.344C202.218,908.011,206.546,903.683,211.886,903.683z"
+			/>
+	</g>
+	<path fill="#FFFFFF" d="M225.877,926.328c3.564,0,6.373,1.746,7.955,4.578h0.095v-4.154h3.918v32.74h-4.107v-12.299h-0.094
+		c-1.535,2.809-4.391,4.531-7.861,4.531c-6.208,0-10.362-5.004-10.362-12.697C215.42,931.308,219.575,926.328,225.877,926.328z
+		 M226.609,948.115c4.202,0,7.129-3.611,7.129-9.088c0-5.479-2.927-9.09-7.129-9.09c-4.296,0-6.987,3.471-6.987,9.09
+		C219.622,944.621,222.313,948.115,226.609,948.115z"/>
+	<g transform="translate(24 404)">
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-221.7241" y1="1004.3823" x2="-221.7241" y2="1003.3823" gradientTransform="matrix(605.2486 0 0 -106.3536 134674.0312 107197)">
+			<stop  offset="0" style="stop-color:#0A0A0A;stop-opacity:0"/>
+			<stop  offset="1" style="stop-color:#0A0A0A"/>
+		</linearGradient>
+		
+			<rect x="173.375" y="377.216" opacity="0.9" fill="url(#SVGID_1_)" enable-background="new    " width="605.249" height="106.354"/>
+		
+			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-221.7241" y1="1004.3823" x2="-221.7241" y2="1003.3823" gradientTransform="matrix(605.2486 0 0 -106.3536 134674.0312 107197)">
+			<stop  offset="0" style="stop-color:#101010;stop-opacity:0"/>
+			<stop  offset="1" style="stop-color:#101010"/>
+		</linearGradient>
+		<rect x="173.375" y="377.216" fill="url(#SVGID_2_)" width="605.249" height="106.354"/>
+	</g>
+	<path opacity="0.3" fill="#D0021B" enable-background="new    " d="M462.583,834.869h4.045c0.258,2.068,2.312,3.402,5.25,3.402
+		c2.729,0,4.703-1.396,4.703-3.34c0-1.67-1.271-2.646-4.238-3.34l-3.002-0.688c-4.205-0.947-6.18-3.033-6.18-6.484
+		c0-4.207,3.436-7,8.619-7c4.863,0,8.379,2.793,8.57,6.775h-3.965c-0.289-2.039-2.086-3.324-4.623-3.324
+		c-2.664,0-4.43,1.285-4.43,3.26c0,1.557,1.172,2.471,4.045,3.129l2.664,0.611c4.703,1.059,6.678,3.018,6.678,6.549
+		c0,4.51-3.48,7.318-9.102,7.318C466.307,841.738,462.792,839.074,462.583,834.869z M485.702,819.298h3.963v4.414h3.758v3.178
+		h-3.758v8.619c0,1.734,0.74,2.504,2.408,2.504c0.562,0,0.867-0.029,1.35-0.08v3.115c-0.578,0.111-1.316,0.191-2.088,0.191
+		c-4.029,0-5.633-1.363-5.633-4.768v-9.584h-2.777v-3.178h2.777V819.298L485.702,819.298z M502.879,838.32
+		c2.408,0,4.205-1.561,4.205-3.598v-1.396l-3.965,0.258c-2.23,0.145-3.273,0.947-3.273,2.375
+		C499.846,837.437,501.114,838.32,502.879,838.32z M501.708,841.449c-3.387,0-5.811-2.057-5.811-5.266
+		c0-3.18,2.393-5.008,6.66-5.266l4.525-0.273v-1.477c0-1.717-1.156-2.68-3.307-2.68c-1.83,0-3.082,0.643-3.451,1.83h-3.756
+		c0.32-3.1,3.227-5.072,7.398-5.072c4.512,0,7.047,2.199,7.047,5.922v11.99h-3.838v-2.406h-0.27
+		C505.928,840.455,504.002,841.449,501.708,841.449z M515.274,841.16v-17.561h3.838v2.73h0.27c0.482-1.734,2.377-3.02,4.639-3.02
+		c0.578,0,1.285,0.062,1.654,0.178v3.689c-0.305-0.109-1.365-0.225-2.039-0.225c-2.584,0-4.383,1.604-4.383,4.061v10.146H515.274z
+		 M530.479,819.298h3.967v4.414h3.756v3.178h-3.756v8.619c0,1.734,0.736,2.504,2.406,2.504c0.562,0,0.865-0.029,1.35-0.08v3.115
+		c-0.578,0.111-1.316,0.191-2.086,0.191c-4.029,0-5.635-1.363-5.635-4.768v-9.584h-2.777v-3.178h2.777L530.479,819.298
+		L530.479,819.298z"/>
+	<path opacity="0.25" fill="#EEE3C1" enable-background="new    " d="M251.621,273.581l-7.308,28.076h-13.597l-12.645-49.049h14.888
+		l5.643,31h0.272l7.308-31h11.149l7.308,31h0.272l5.643-31h14.888l-12.645,49.049H259.2l-7.308-28.076H251.621z M289.589,301.657
+		v-49.049h13.597v18.899h0.271c1.87-5.269,5.982-8.124,11.693-8.124c8.43,0,12.982,5.234,12.982,14.242v24.031h-13.937v-20.938
+		c0-3.771-1.835-6.084-5.336-6.084c-3.47,0-5.337,2.549-5.337,6.05v20.972L289.589,301.657L289.589,301.657z M349.684,292.888
+		c3.096,0,5.949-1.733,5.949-4.487v-2.447l-5.914,0.408c-2.65,0.204-4.146,1.462-4.146,3.297
+		C345.572,291.698,347.237,292.888,349.684,292.888z M344.484,302.201c-6.832,0-12.646-4.69-12.646-11.455
+		c0-7.206,5.54-11.115,15.567-11.727l8.226-0.51v-1.835c0-2.516-1.904-3.875-4.521-3.875c-2.854,0-4.69,1.563-4.896,3.467h-12.438
+		c0.34-8.021,7.138-13.086,18.083-13.086c10.4,0,17.369,5.201,17.369,12.814v25.663h-13.598v-5.03h-0.271
+		C353.389,300.298,348.835,302.201,344.484,302.201z M377.829,255.906h13.938v8.226h6.596v10.095h-6.596v13.869
+		c0,2.345,1.359,3.569,4.217,3.569c1.053,0,1.561-0.034,2.379-0.17v9.653c-1.326,0.272-3.096,0.51-5.744,0.51
+		c-10.605,0-14.787-3.059-14.787-10.469v-16.962h-4.961v-10.095h4.961L377.829,255.906L377.829,255.906z M432.657,292.888
+		c3.094,0,5.949-1.733,5.949-4.487v-2.447l-5.916,0.408c-2.65,0.204-4.146,1.462-4.146,3.297
+		C428.543,291.698,430.209,292.888,432.657,292.888z M427.456,302.201c-6.832,0-12.646-4.69-12.646-11.455
+		c0-7.206,5.541-11.115,15.568-11.727l8.229-0.51v-1.835c0-2.516-1.904-3.875-4.521-3.875c-2.855,0-4.691,1.563-4.895,3.467h-12.441
+		c0.34-8.021,7.139-13.086,18.084-13.086c10.4,0,17.369,5.201,17.369,12.814v25.663h-13.596v-5.03h-0.273
+		C436.362,300.298,431.807,302.201,427.456,302.201z M457.436,301.657v-37.525h13.598v7.376h0.271
+		c1.428-5.337,4.316-7.92,8.771-7.92c1.256,0,2.344,0.204,3.262,0.544v11.692c-1.188-0.51-2.617-0.782-4.045-0.782
+		c-5.234,0-7.92,2.686-7.92,7.92v18.695H457.436z M504.479,272.765c-3.16,0-5.574,2.312-5.848,5.541h11.693
+		C510.088,274.94,507.743,272.765,504.479,272.765z M510.733,289.489h12.406c-1.154,8.09-8.227,13.121-18.523,13.121
+		c-12.307,0-19.613-7.308-19.613-19.511c0-12.271,7.377-19.919,19.172-19.919c11.623,0,19.137,7.41,19.137,18.899v3.773h-24.883
+		v0.884c0,3.671,2.652,6.322,6.393,6.322C507.641,293.058,509.918,291.732,510.733,289.489z M547.206,315.424h-4.963v-10.367h2.686
+		c3.943,0,5.711-0.714,5.711-2.379c0-0.306-0.066-0.714-0.17-1.02l-12.305-37.525h15.465l5.711,27.532h0.271l5.678-27.532h14.717
+		l-11.182,36.642C565.629,311.209,559.409,315.424,547.206,315.424z M600.333,302.609c-12.236,0-19.713-7.07-19.713-19.749
+		c0-12.338,7.682-19.681,19.713-19.681c12.102,0,19.75,7.274,19.75,19.681C620.083,295.573,612.604,302.609,600.333,302.609z
+		 M600.333,292.65c3.469,0,5.609-3.467,5.609-9.755c0-6.118-2.178-9.755-5.609-9.755c-3.398,0-5.574,3.637-5.574,9.755
+		C594.758,289.183,596.833,292.65,600.333,292.65z M662.639,264.132v37.525h-13.598v-7.376h-0.27
+		c-1.496,5.099-4.998,8.124-10.605,8.124c-8.057,0-13.971-5.269-13.971-14.208v-24.065h13.936v20.938
+		c0,3.977,2.145,6.084,5.406,6.084c3.127,0,5.166-2.413,5.166-6.05v-20.972H662.639z M238.603,368.468
+		c3.773,0,5.982-2.787,5.982-8.192c0-5.336-2.243-8.6-5.982-8.6c-3.739,0-5.949,3.263-5.949,8.566
+		C232.654,365.647,234.83,368.468,238.603,368.468z M238.059,393.146c-11.387,0-18.253-4.929-18.831-11.896h13.393
+		c0.408,1.801,2.617,3.093,5.744,3.093c4.147,0,6.152-2.141,6.152-5.302v-7.206h-0.272c-1.224,3.943-5.608,6.696-11.217,6.696
+		c-8.77,0-14.65-6.628-14.65-18.389c0-12.067,5.506-19.205,14.854-19.205c5.472,0,9.551,3.093,11.013,7.308h0.272v-6.764h13.937
+		v37.22C258.454,387.639,250.126,393.146,238.059,393.146z M282.451,379.957c-12.237,0-19.715-7.07-19.715-19.749
+		c0-12.338,7.682-19.681,19.715-19.681c12.101,0,19.748,7.274,19.748,19.681C302.199,372.921,294.722,379.957,282.451,379.957z
+		 M282.451,369.998c3.467,0,5.608-3.467,5.608-9.755c0-6.119-2.175-9.755-5.608-9.755c-3.399,0-5.575,3.637-5.575,9.755
+		C276.876,366.531,278.95,369.998,282.451,369.998z M306.482,379.005v-37.526h13.597v7.376h0.271
+		c1.903-5.269,5.812-8.124,11.523-8.124c8.43,0,13.052,5.234,13.052,14.242v24.031H330.99v-20.938c0-3.773-1.77-6.084-5.271-6.084
+		c-3.298,0-5.303,2.549-5.303,6.05v20.972L306.482,379.005L306.482,379.005z M349.991,379.005v-37.526h13.596v7.376h0.273
+		c1.9-5.269,5.811-8.124,11.52-8.124c8.43,0,13.053,5.234,13.053,14.242v24.031h-13.936v-20.938c0-3.773-1.77-6.084-5.27-6.084
+		c-3.299,0-5.305,2.549-5.305,6.05v20.972L349.991,379.005L349.991,379.005z M409.952,370.236c3.092,0,5.947-1.733,5.947-4.487
+		v-2.447l-5.914,0.408c-2.652,0.204-4.146,1.462-4.146,3.297C405.838,369.046,407.502,370.236,409.952,370.236z M404.75,379.549
+		c-6.832,0-12.645-4.691-12.645-11.455c0-7.206,5.541-11.115,15.566-11.727l8.227-0.51v-1.835c0-2.516-1.902-3.875-4.521-3.875
+		c-2.854,0-4.689,1.563-4.895,3.467h-12.439c0.34-8.021,7.137-13.086,18.082-13.086c10.402,0,17.369,5.201,17.369,12.812v25.663
+		h-13.596v-5.031h-0.271C413.655,377.646,409.1,379.549,404.75,379.549z M461.651,379.549c-9.246,0-14.615-7.172-14.615-19.409
+		c0-12.067,5.506-19.205,14.854-19.205c5.475,0,9.553,3.093,11.014,7.308h0.271v-18.287h13.938v49.049h-13.938v-6.492h-0.271
+		C471.645,376.456,467.293,379.549,461.651,379.549z M467.26,351.677c-3.738,0-5.949,3.263-5.949,8.566
+		c0,5.371,2.178,8.565,5.949,8.565s5.98-3.127,5.98-8.532C473.241,354.906,470.999,351.677,467.26,351.677z M511.108,379.957
+		c-12.236,0-19.717-7.07-19.717-19.749c0-12.338,7.684-19.681,19.717-19.681c12.1,0,19.748,7.274,19.748,19.681
+		C530.856,372.921,523.377,379.957,511.108,379.957z M511.108,369.998c3.467,0,5.605-3.467,5.605-9.755
+		c0-6.119-2.174-9.755-5.605-9.755c-3.4,0-5.574,3.637-5.574,9.755C505.534,366.531,507.606,369.998,511.108,369.998z
+		 M534.254,344.675c0-9.381,6.938-15.194,18.221-15.194c10.877,0,17.879,5.472,17.879,14.004c0,4.928-2.209,8.293-7.408,11.285
+		c-4.76,2.719-6.051,4.147-6.051,7.206v1.428h-12.066l-0.104-0.816c-0.85-6.22,0.715-9.279,5.438-11.999
+		c4.826-2.788,5.949-4.011,5.949-6.798c0-2.277-1.939-3.841-4.59-3.841c-2.688,0-4.59,1.938-4.623,4.725H534.254z M551.114,380.365
+		c-3.979,0-7.205-2.991-7.205-6.798c0-3.773,3.229-6.764,7.205-6.764s7.24,2.991,7.24,6.764
+		C558.354,377.374,555.092,380.365,551.114,380.365z"/>
+	<path fill="#656153" d="M787.155,187.566v-10.629c0-1.6-1.305-2.904-2.904-2.904h-32.865c-1.604,0-2.904,1.301-2.904,2.904v10.629
+		c0,1.601,1.297,2.904,2.885,2.904h32.906C785.86,190.47,787.155,189.17,787.155,187.566z M787.077,190.47v1.028
+		c-0.791,0.57-1.76,0.906-2.805,0.906h1.4h-1.4v-1.934H787.077z M785.674,192.403h1.402H785.674z M787.077,190.47h-2.805v1.934
+		h-32.908c-2.66,0-4.816-2.173-4.816-4.837v-10.629c0-2.672,2.168-4.837,4.838-4.837h32.865c2.672,0,4.838,2.173,4.838,4.837v10.629
+		c0,1.62-0.795,3.054-2.012,3.932V190.47z"/>
+	<path fill="#656153" d="M791.022,178.867c1.668,0.43,2.898,1.944,2.898,3.746c0,1.802-1.23,3.316-2.898,3.746V178.867z"/>
+	<path fill="#EEE3C1" d="M752.348,175.967h30.939c1.068,0,1.934,0.866,1.934,1.934v8.702c0,1.068-0.863,1.934-1.934,1.934h-30.939
+		c-1.066,0-1.934-0.866-1.934-1.934V177.9C750.415,176.833,751.28,175.967,752.348,175.967z"/>
+	<path fill="#EEE3C1" d="M482.354,190.877c-3.922,0-6.242-3.172-6.242-8.6c0-5.405,2.354-8.566,6.242-8.566
+		c3.875,0,6.23,3.161,6.23,8.588C488.584,187.705,486.262,190.877,482.354,190.877z M482.354,188.453
+		c2.072,0,3.273-2.153,3.273-6.175c0-4-1.225-6.13-3.273-6.13c-2.051,0-3.285,2.142-3.285,6.13
+		C479.067,186.3,480.28,188.453,482.354,188.453z M493.875,188.736c-1.064,0-1.812-0.771-1.812-1.791c0-1.031,0.748-1.79,1.812-1.79
+		c1.076,0,1.812,0.759,1.812,1.79C495.688,187.966,494.952,188.736,493.875,188.736z M493.875,180.238
+		c-1.064,0-1.812-0.759-1.812-1.779c0-1.031,0.748-1.79,1.812-1.79c1.076,0,1.812,0.759,1.812,1.79
+		C495.688,179.479,494.952,180.238,493.875,180.238z M505.411,190.877c-3.922,0-6.244-3.172-6.244-8.6
+		c0-5.405,2.357-8.566,6.244-8.566c3.873,0,6.229,3.161,6.229,8.588C511.641,187.705,509.319,190.877,505.411,190.877z
+		 M505.411,188.453c2.072,0,3.271-2.153,3.271-6.175c0-4-1.223-6.13-3.271-6.13s-3.287,2.142-3.287,6.13
+		C502.124,186.3,503.336,188.453,505.411,188.453z M521.079,190.866c-2.4,0-4.293-1.133-5.381-3.229
+		c-0.762-1.337-1.156-3.082-1.156-5.167c0-5.496,2.459-8.759,6.629-8.759c2.98,0,5.268,1.768,5.756,4.453h-2.924
+		c-0.363-1.235-1.449-2.005-2.854-2.005c-2.393,0-3.809,2.232-3.809,5.971h0.193c0.77-1.552,2.311-2.447,4.234-2.447
+		c3.105,0,5.385,2.3,5.385,5.438C527.153,188.487,524.637,190.866,521.079,190.866z M521.045,188.43c1.836,0,3.24-1.394,3.24-3.218
+		c0-1.87-1.348-3.207-3.217-3.207c-1.871,0-3.24,1.337-3.24,3.161C517.829,187.025,519.221,188.43,521.045,188.43z M263.401,186.483
+		l-4.103,3.986l-4.182-4.051c1.001-1.109,2.473-1.811,4.114-1.811C260.902,184.608,262.399,185.336,263.401,186.483z
+		 M267.614,182.39l-2.105,2.045c-1.545-1.665-3.786-2.712-6.279-2.712c-2.463,0-4.68,1.022-6.223,2.653l-2.108-2.042
+		c2.083-2.152,5.045-3.497,8.331-3.497C262.544,178.837,265.528,180.205,267.614,182.39z M271.823,178.301l-2.104,2.044
+		c-2.626-2.704-6.354-4.393-10.489-4.393c-4.108,0-7.815,1.667-10.438,4.341l-2.107-2.041c3.163-3.196,7.614-5.186,12.545-5.186
+		C264.186,173.066,268.658,175.076,271.823,178.301z M234.116,173.061c0-0.531,0.446-0.961,0.978-0.961h2.878
+		c0.54,0,0.978,0.418,0.978,0.961v16.447c0,0.531-0.446,0.962-0.978,0.962h-2.878c-0.54,0-0.978-0.418-0.978-0.962V173.061z
+		 M226.381,177.907c0-0.538,0.446-0.974,0.978-0.974h2.878c0.54,0,0.978,0.45,0.978,0.974v11.589c0,0.538-0.446,0.974-0.978,0.974
+		h-2.878c-0.54,0-0.978-0.451-0.978-0.974V177.907z M218.646,181.764c0-0.532,0.446-0.962,0.978-0.962h2.878
+		c0.54,0,0.978,0.416,0.978,0.962v7.744c0,0.531-0.446,0.962-0.978,0.962h-2.878c-0.54,0-0.978-0.416-0.978-0.962V181.764z
+		 M210.912,185.626c0-0.529,0.446-0.958,0.978-0.958h2.878c0.54,0,0.979,0.417,0.979,0.958v3.885c0,0.529-0.446,0.958-0.979,0.958
+		h-2.878c-0.54,0-0.978-0.417-0.978-0.958V185.626z"/>
+</g>
+</svg>
