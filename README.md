@@ -6,4 +6,4 @@ Started as a web developer and is the first portfolio site created.
  
 
 ### Using the [vercel](https://vercel.com/) Domain.
- when pushed, it is automatically distributed as https://port02.now.sh/.  
+ when pushed, it is automatically distributed as https://port01.now.sh/.  
